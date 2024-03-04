@@ -11,12 +11,9 @@ Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, 
 
 
 
-
-
 [Deploy Link](https://construct-week-myntra-clone.netlify.app/)
 <br>
 [Presentation Link](https://drive.google.com/file/d/1vFzE7WkoRBidnPSmbJ1cATqWxnz56mA-/view?usp=drive_link)
-
 
 ## Tech Stack
 
